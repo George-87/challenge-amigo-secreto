@@ -7,7 +7,7 @@ El objetivo es crear una aplicación web sencilla que permita agregar nombres y 
 
 ## 📸 Vista previa
 <p align="center">
-  <img src="activos/amigo-secreto.png" alt="Vista previa del proyecto" width="400px">
+  <img src="assets/amigo-secreto.png" alt="Vista previa del proyecto" width="400px">
 </p>
 
 ---
